@@ -1,0 +1,2 @@
+# Botad-r
+Discord Botu
